@@ -278,7 +278,7 @@
 							border-radius: 0px;
 							color: rgba(255,255,255,0.6);
 							text-transform: uppercase;
-							font-weight: normal;
+							font-weight: bold;
 							font-size: 14px;
 							font-family: Arial, sans-serif;
 							transition: color 0.25s ease, background-color 0.25s ease;
@@ -2283,11 +2283,6 @@
 							box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.48);
 							color: #fff;
 						}
-
-				.submit-page #header-bottom-left {
-					top: 36px;
-					left: 16px;
-				}
 
 				/* Search Page */
 				.search-page .searchpane {
