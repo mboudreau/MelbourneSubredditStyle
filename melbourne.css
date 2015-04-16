@@ -258,7 +258,7 @@
                     height:42px;
                     display:block;
                     position:absolute;
-                    top:-25px;
+                    top:-30px;
                     left:-125px;
                 }
             
@@ -272,7 +272,7 @@
 						#header .tabmenu li a {
 							display: inline-block;
 							margin: 0px 4px;
-							padding: 16px 16px;
+							padding: 6px 16px 4px;
 							background-color: transparent;
 							border: 0px;
 							border-radius: 0px;
@@ -297,7 +297,7 @@
 							}
 
 							#header .tabmenu li.selected a {
-								padding: 16px 16px 14px 16px;
+								padding: 6px 16px 4px 16px;
 								background-color: transparent;
 								border: 0px;
 								border-bottom: 2px solid #fff;
